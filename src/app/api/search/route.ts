@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 
-const API_KEY = "sk_mb_rCuRVGgDk-UyCHkrnfTgORwAwGyQF";
+const API_KEY = "sk_A61FDw1loNw2LXQJfoIsMUqKph_aM5fI";
 const BASE_URL = "http://82.115.21.96:4000/public/v1/products/search";
 
 export async function GET(request: Request) {
